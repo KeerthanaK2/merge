@@ -11,6 +11,7 @@ namespace Sample_application_project
         void PrintWelcome()
         {
             Console.WriteLine("Welcome");
+            Console.WriteLine("programming");
         }
     }
 }
