@@ -1,0 +1,7 @@
+E:\LTI\TRAINING\GIT\GitLearn\Day2\Sample application project\Sample application project\bin\Debug\Sample application project.exe.config
+E:\LTI\TRAINING\GIT\GitLearn\Day2\Sample application project\Sample application project\bin\Debug\Sample application project.exe
+E:\LTI\TRAINING\GIT\GitLearn\Day2\Sample application project\Sample application project\bin\Debug\Sample application project.pdb
+E:\LTI\TRAINING\GIT\GitLearn\Day2\Sample application project\Sample application project\obj\Debug\Sample application project.csprojAssemblyReference.cache
+E:\LTI\TRAINING\GIT\GitLearn\Day2\Sample application project\Sample application project\obj\Debug\Sample application project.csproj.CoreCompileInputs.cache
+E:\LTI\TRAINING\GIT\GitLearn\Day2\Sample application project\Sample application project\obj\Debug\Sample application project.exe
+E:\LTI\TRAINING\GIT\GitLearn\Day2\Sample application project\Sample application project\obj\Debug\Sample application project.pdb
